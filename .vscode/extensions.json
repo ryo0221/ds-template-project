@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "ms-python.python",
+        "charliermaster.ruff",
+        "ms-python.mypy-type-checker",
+        "mhutchie.git-graph",
+        "gruntfuggly.todo-tree",
+        "mechatroner.rainbow-csv"
+    ]
+}

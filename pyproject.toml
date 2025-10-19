@@ -1,0 +1,16 @@
+[project]
+name = "ds-template-project"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "lightgbm>=4.6.0",
+    "numpy>=2.3.2",
+    "pandas>=2.3.2",
+    "plotly>=6.3.0",
+    "polar>=0.0.127",
+    "ruff>=0.12.12",
+    "scipy>=1.16.1",
+    "tqdm>=4.67.1",
+]

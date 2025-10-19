@@ -1,0 +1,11 @@
+{
+    "python.defaultInterpreterPath": "/usr/local/bin/python3",
+    "[python]": {
+        "editor.formatOnSave": true,
+        "editor.codeActionsOnSave": {
+            "source.fixAll.ruff": "explicit",
+            "source.organizeImports.ruff": "explicit"
+        },
+        "editor.defaultFormatter": "chaliermaster.ruff"
+    },
+}
